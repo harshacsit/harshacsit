@@ -1,8 +1,8 @@
 # Hi, I'm Harsha 👋
 
-### B.Tech CSE (Information Technology) Student | Java Developer | Full-Stack & AI Enthusiast
+### B.Tech CSIT (Computer Science & Information Technology) Student | Full Stack Developer | AI-assited app development &  AI Enthusiast
 
-I'm a Computer Science student passionate about building **practical software applications, AI-powered systems, and full-stack solutions**.
+I'm a Computer Science information technology student passionate about building **practical software applications, AI-powered systems, and full-stack solutions**.
 
 I enjoy turning ideas into working products—from Android applications and web dashboards to AI agents, automation workflows, and cloud-connected systems.
 
@@ -29,10 +29,10 @@ Currently, I'm strengthening my **Data Structures & Algorithms, Java, Full-Stack
 ### Programming Languages
 
 * ☕ Java
-* 🐍 Python
+* 🐍 Python(basic level)
 * 💻 C
 * 🟨 JavaScript
-* 🎯 Dart
+* 🎯 kotlin
 
 ### Frontend
 
@@ -40,7 +40,7 @@ Currently, I'm strengthening my **Data Structures & Algorithms, Java, Full-Stack
 * CSS
 * JavaScript
 * React.js
-* Flutter
+* kotlin
 
 ### Backend & Databases
 
@@ -83,6 +83,20 @@ Currently, I'm strengthening my **Data Structures & Algorithms, Java, Full-Stack
 ---
 
 ## 🔥 Featured Projects
+
+### 🍱 Lunchbox Delivery Platform
+
+A food-delivery management system consisting of an administrative dashboard and an Android application.
+
+**Technologies:** HTML, CSS, JavaScript, Firebase, Android
+
+* Admin dashboard
+* Order management
+* Android-based operations
+* Firebase backend
+* Real-time data handling
+
+---
 
 ### 🤖 AutoReply – Customer Queries AI Agent
 
@@ -132,20 +146,6 @@ A digital signage solution designed for displaying advertisements and content on
 
 ---
 
-### 🍱 Lunchbox Delivery Platform
-
-A food-delivery management system consisting of an administrative dashboard and an Android application.
-
-**Technologies:** HTML, CSS, JavaScript, Firebase, Android
-
-* Admin dashboard
-* Order management
-* Android-based operations
-* Firebase backend
-* Real-time data handling
-
----
-
 ### 🎓 CampusConnect
 
 A web-based platform focused on connecting students and providing useful campus-related functionality.
@@ -187,7 +187,7 @@ I'm currently putting more focus on:
 
 * Data Structures & Algorithms
 * Advanced Java
-* Spring Boot
+* agentic workflows
 * React.js
 * Node.js & Express.js
 * MongoDB
