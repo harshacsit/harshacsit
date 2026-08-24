@@ -1,4 +1,4 @@
-# Hi, I'm Harsha 👋
+# Hi, I'm Harsha Vardhan Eudu 👋
 
 ### B.Tech CSIT (Computer Science & Information Technology) Student | Full Stack Developer | AI-assited app development &  AI Enthusiast
 
