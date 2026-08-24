@@ -1,8 +1,8 @@
 # Hi, I'm Harsha Vardhan Eudu 👋
 
-### Computer Science Student | Java Developer | Full-Stack & AI Enthusiast
+### Computer Science Information Technology Student | full-stack Developer | AI assited android development & AI Enthusiast
 
-I'm a **B.Tech CSE (Information Technology) student** who enjoys building practical applications with **Java, Full-Stack technologies, Android, and agentic AI & GENAI**.
+I'm a **B.Tech CSIT student** who enjoys building practical applications with **Java, Full-Stack technologies, Android, and agentic AI & GENAI**.
 
 Currently focused on **DSA, Agentic AI workflows, MERN, and Generative AI**.
 
