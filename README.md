@@ -1,4 +1,4 @@
-# Hi, I'm Harsha 👋
+# Hi, I'm Harsha Vardhan Eudu 👋
 
 ### Computer Science Student | Java Developer | Full-Stack & AI Enthusiast
 
@@ -26,11 +26,11 @@ Currently focused on **DSA, Java backend development, MERN, and Generative AI**.
 
 ## 🚀 Featured Projects
 
-### 🍱 Lunchbox Delivery
+### 🍱 Lunchbox Delivery Management(A SRKREC startup)
 
 Food delivery management platform with an **admin dashboard and Android application**.
 
-### 📺 Digital Signage System
+### 📺 Digital Signage System(Bhimavaram Digitals-A SRKREC startup)
 
 Cloud-connected **Android TV signage platform** using Firebase, Firestore, Media3 and Cloudflare R2.
 
@@ -41,7 +41,7 @@ AI-powered customer query automation using **FastAPI, CrewAI, LLMs and RAG**.
 ### 📱 Kirana Inventory App
 
 Android inventory management application with **expiry tracking, low-stock alerts, notifications and Firebase**.
-
+build by design tinking approach
 
 ## 🧠 Currently Learning
 
