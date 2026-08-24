@@ -4,7 +4,7 @@
 
 I'm a **B.Tech CSE (Information Technology) student** who enjoys building practical applications with **Java, Full-Stack technologies, Android, and agentic AI & GENAI**.
 
-Currently focused on **DSA, Java backend development, MERN, and Generative AI**.
+Currently focused on **DSA, Agentic AI workflows, MERN, and Generative AI**.
 
 ---
 
