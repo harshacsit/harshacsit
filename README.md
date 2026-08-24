@@ -1,242 +1,62 @@
-# Hi, I'm Harsha Vardhan Eudu 👋
+# Hi, I'm Harsha 👋
 
-### B.Tech CSIT (Computer Science & Information Technology) Student | Full Stack Developer | AI-assited app development &  AI Enthusiast
+### Computer Science Student | Java Developer | Full-Stack & AI Enthusiast
 
-I'm a Computer Science information technology student passionate about building **practical software applications, AI-powered systems, and full-stack solutions**.
+I'm a **B.Tech CSE (Information Technology) student** who enjoys building practical applications with **Java, Full-Stack technologies, Android, and agentic AI & GENAI**.
 
-I enjoy turning ideas into working products—from Android applications and web dashboards to AI agents, automation workflows, and cloud-connected systems.
-
-Currently, I'm strengthening my **Data Structures & Algorithms, Java, Full-Stack Development, and AI/GenAI** skills.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech student specializing in **Computer Science & Information Technology**
-* 💻 Strong interest in **Java, Full-Stack Development, Android & AI**
-* 🤖 Exploring **Generative AI, AI Agents, RAG and automation**
-* 📱 Experienced in building **Android applications**
-* 🌐 Learning and building applications using the **MERN stack**
-* 🔥 Worked with **Firebase, Firestore and Firebase Authentication**
-* ⚙️ Exploring **n8n and AI-powered automation**
-* 🧠 Currently focusing on **DSA and problem solving**
-* ☁️ Interested in building scalable and real-world software systems
+Currently focused on **DSA, Java backend development, MERN, and Generative AI**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages:** Java • C • Python • JavaScript • Dart
 
-* ☕ Java
-* 🐍 Python(basic level)
-* 💻 C
-* 🟨 JavaScript
-* 🎯 kotlin
+**Frontend:** HTML • CSS • JavaScript • React
 
-### Frontend
+**Backend:** Java • Node.js • Express.js • REST APIs
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* kotlin
+**Database:** MySQL • MongoDB • Firebase • Firestore
 
-### Backend & Databases
+**AI:** Generative AI • RAG • AI Agents • CrewAI • n8n • Ollama
 
-* Java
-* Node.js
-* Express.js
-* MongoDB
-* MySQL
-* Firebase
-* Firestore
-
-### AI & Automation
-
-* Generative AI
-* LLM Applications
-* RAG
-* AI Agents
-* CrewAI
-* n8n
-* Prompt Engineering
-* Ollama
-
-### Android
-
-* Android Studio
-* Java / Kotlin
-* Firebase
-* Android TV
-* ADB
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* VS Code
-* Android Studio
-* Cloudflare R2
+**Tools:** Git • GitHub • Docker • Android Studio • VS Code
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🍱 Lunchbox Delivery Platform
+### 🍱 Lunchbox Delivery
 
-A food-delivery management system consisting of an administrative dashboard and an Android application.
-
-**Technologies:** HTML, CSS, JavaScript, Firebase, Android
-
-* Admin dashboard
-* Order management
-* Android-based operations
-* Firebase backend
-* Real-time data handling
-
----
-
-### 🤖 AutoReply – Customer Queries AI Agent
-
-An AI-powered customer-support system designed to process and respond to e-commerce customer queries.
-
-**Technologies:** Python, FastAPI, CrewAI, LLMs, RAG
-
-* Built an AI-agent based customer query workflow
-* Used multiple agents for task-specific processing
-* Created an API backend using FastAPI
-* Explored RAG-based knowledge retrieval
-* Designed the project around automated customer support
-
----
-
-### 📱 Kirana Inventory Management App
-
-An Android application designed to help small grocery stores manage their inventory.
-
-**Technologies:** Android, Java, Firebase
-
-Features include:
-
-* 📦 Inventory management
-* ⚠️ Low-stock alerts
-* 📅 Product expiry tracking
-* 🔔 Notifications
-* 💬 WhatsApp-based notifications
-* 🎙️ Voice-based alerts
-* 🌐 Firebase integration
-
----
+Food delivery management platform with an **admin dashboard and Android application**.
 
 ### 📺 Digital Signage System
 
-A digital signage solution designed for displaying advertisements and content on TV screens.
+Cloud-connected **Android TV signage platform** using Firebase, Firestore, Media3 and Cloudflare R2.
 
-**Technologies:** Android TV, Kotlin, Firebase, Firestore, ExoPlayer/Media3, Cloudflare R2
+### 🤖 AutoReply – AI Customer Support
 
-* 📺 Android TV signage player
-* ☁️ Cloud-based content management
-* 🔄 Remote content updates
-* 🎬 Video playback
-* 🔥 Firebase/Firestore integration
-* 📡 Device monitoring and communication
-* 🚀 Automatic player startup
+AI-powered customer query automation using **FastAPI, CrewAI, LLMs and RAG**.
 
----
+### 📱 Kirana Inventory App
 
-### 🎓 CampusConnect
+Android inventory management application with **expiry tracking, low-stock alerts, notifications and Firebase**.
 
-A web-based platform focused on connecting students and providing useful campus-related functionality.
-
-**Technologies:** HTML, CSS, JavaScript, React
-
----
-
-### ⚡ AutoPrompt Doctor
-
-An automation-based AI project built using n8n.
-
-**Technologies:** n8n, AI/LLMs, APIs, Automation
-
-* Automated AI workflows
-* API integrations
-* Prompt-based processing
-* Workflow automation
-
----
 
 ## 🧠 Currently Learning
 
-```text
-DSA
- ↓
-Java
- ↓
-Backend Development
- ↓
-Full-Stack Development
- ↓
-AI / GenAI
- ↓
-Cloud & Deployment
-```
-
-I'm currently putting more focus on:
-
-* Data Structures & Algorithms
-* Advanced Java
-* agentic workflows
-* React.js
-* Node.js & Express.js
-* MongoDB
-* REST APIs
-* Generative AI
-* RAG
-* AI Agents
-* Cloud deployment
+**DSA → Java → Spring Boot → Full Stack → AI/GenAI → Cloud**
 
 ---
 
-## 📊 My Development Journey
+## 🎯 Goal
 
-I started with programming fundamentals and gradually moved toward building complete applications.
-
-**Programming → DSA → Android → Web Development → Full Stack → AI & Automation**
-
-My goal is to combine these skills to build **useful, scalable and intelligent applications**.
-
----
-
-## 🎯 Goals
-
-* 🚀 Become a strong **software developer**
-* 💻 Build production-ready full-stack applications
-* 🧠 Become strong in **DSA and problem solving**
-* 🤖 Build practical **AI-powered applications**
-* ☁️ Learn cloud-native application development
-* 🏗️ Develop scalable backend systems
-* 💼 Secure a strong software engineering role
+To become a strong **Software Engineer** by building scalable applications and solving real-world problems with **software and AI**.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in:
+Interested in **AI, Full-Stack Development, Android, Open Source and Hackathons**.
 
-* Open-source projects
-* AI & GenAI projects
-* Full-stack development
-* Android development
-* Hackathons
-* Collaborations
-* Interesting software ideas
-
-If you're building something interesting, feel free to connect!
-
----
-
-### 💡 *"Build. Learn. Improve. Repeat."*
-
-⭐ Thanks for visiting my profile!
+⭐ *Build. Learn. Improve. Repeat.*
