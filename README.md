@@ -20,7 +20,7 @@ Currently focused on **DSA, Java backend development, MERN, and Generative AI**.
 
 **AI:** Generative AI • RAG • AI Agents • CrewAI • n8n • Ollama
 
-**Tools:** Git • GitHub • Docker • Android Studio • VS Code
+**Tools:** Git • GitHub • Docker • Android Studio • postman
 
 ---
 
