@@ -1,4 +1,4 @@
-# Hi, I'm Harsha Vardhan Eudu 👋
+# Hello, I'm Harsha Vardhan Eudu 
 
 ### Computer Science Information Technology Student | full-stack Developer | AI assited android development & AI Enthusiast
 
@@ -10,17 +10,17 @@ Currently focused on **DSA, Agentic AI workflows, MERN, and Generative AI**.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java • C • Python • JavaScript • Dart
+**Languages:** Java • C • Python(basics) • JavaScript • kotlin
 
 **Frontend:** HTML • CSS • JavaScript • React
 
-**Backend:** Java • Node.js • Express.js • REST APIs
+**Backend:**  Node.js • Express.js • REST APIs
 
 **Database:** MySQL • MongoDB • Firebase • Firestore
 
 **AI:** Generative AI • RAG • AI Agents • CrewAI • n8n • Ollama
 
-**Tools:** Git • GitHub • Docker • Android Studio • postman
+**Tools:** Git • GitHub • Docker • Android Studio • postman • n8n
 
 ---
 
@@ -32,7 +32,7 @@ Food delivery management platform with an **admin dashboard and Android applicat
 
 ### 📺 Digital Signage System(Bhimavaram Digitals-A SRKREC startup)
 
-Cloud-connected **Android TV signage platform** using Firebase, Firestore, Media3 and Cloudflare R2.
+Cloud-connected **Android TV signage platform consists of player app and dashboard** using Firebase, Firestore, Media3 and Cloudflare R2.
 
 ### 🤖 AutoReply – AI Customer Support
 
@@ -41,11 +41,11 @@ AI-powered customer query automation using **FastAPI, CrewAI, LLMs and RAG**.
 ### 📱 Kirana Inventory App
 
 Android inventory management application with **expiry tracking, low-stock alerts, notifications and Firebase**.
-build by design tinking approach
+build by design thinking approach 
 
 ## 🧠 Currently Learning
 
-**DSA → Java → Spring Boot → Full Stack → AI/GenAI → Cloud**
+**java DSA → android app development  → Full Stack development → GenAI → Agentic ai workflows**
 
 ---
 
